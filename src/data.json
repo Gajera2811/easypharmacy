@@ -1,0 +1,121 @@
+ {
+   "value": [
+    {
+        "id": 1,
+       "className":"shap",
+        "whatwedo": "Personalization",
+        "whatwedodis": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr,",
+        "Image":"./Assets/images/1.png"
+      
+
+    }, {
+        "id": 2,
+        "className":"shap1",
+        "whatwedo": "Home Delivery",
+        "whatwedodis": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr,"
+       
+    }, {
+        "id": 3,
+        "className":"shap2",
+        "whatwedo": "Stay Connected",
+        "whatwedodis": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr,"
+       
+    }, {
+        "id": 4,
+        "className":"shap3",
+        "whatwedo": "No Extra Cost",
+        "whatwedodis": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr,"
+        
+    },
+{
+        "id": 5,
+        "className":"shap4",
+        "whatwedo": "Personalization",
+        "whatwedodis": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr,"
+       
+    },
+{
+        "id": 6,
+        "className":"shap5",
+        "whatwedo": "Stay Connected",
+        "whatwedodis": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr,"
+       
+    }
+],
+"whyus": [
+    {
+        "id": 1,
+       "className":"shap",
+        "whatwedo": "Personalization",
+        "whatwedodis": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr,"
+      
+
+    }, {
+        "id": 2,
+        "className":"shap1",
+        "whatwedo": "Home Delivery",
+        "whatwedodis": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr,"
+       
+    }, {
+        "id": 3,
+        "className":"shap2",
+        "whatwedo": "Stay Connected",
+        "whatwedodis": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr,"
+       
+    }, {
+        "id": 4,
+        "className":"shap3",
+        "whatwedo": "No Extra Cost",
+        "whatwedodis": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr,"
+        
+    }
+],
+"aboutus": [
+    {
+        "id": 1,
+      
+        "aboutus": "Lorem Ipsum",
+        "aboutusdis": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr,"
+      
+
+    }, {
+        "id": 2,
+       
+        "aboutus": "Lorem Ipsum",
+        "aboutusdis": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr,"
+       
+    }, {
+        "id": 3,
+       
+        "aboutus": "Lorem Ipsum",
+        "aboutusdis": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr,"
+       
+    }, {
+        "id": 4,
+       
+        "aboutus": "Lorem Ipsum ",
+        "aboutusdis": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr,"
+        
+    }
+],
+"bookappoinment":[
+    {
+        "id": 1,
+        "appoinmentnumber": "1",
+        "appoiment": "Book an Appointment ",
+        "appoimentdis": "Sed consequat orci ante, vitae imperdiet neque suscipit a. Nunc"
+    },{
+        "id": 1,
+          "appoinmentnumber": "2",
+        "appoiment": "Conduct Oral Checkup ",
+        "appoimentdis": "Sed consequat orci ante, vitae imperdiet neque suscipit a. Nunc,"
+    },{
+        "id": 1,
+          "appoinmentnumber": "3",
+        "appoiment": "Perform Treatment",
+        "appoimentdis": "Sed consequat orci ante, vitae imperdiet neque suscipit a. Nunc,"
+    }
+
+]
+}
+
