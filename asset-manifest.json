@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/easypharmacy/static/css/main.4ea07837.css",
+    "main.js": "/easypharmacy/static/js/main.b5f6e5db.js",
+    "static/media/google.svg": "/easypharmacy/static/media/google.19af5e8e36860116fb6b966c81767c3f.svg",
+    "static/media/heroimg.png": "/easypharmacy/static/media/heroimg.062c1898f4214d17f231.png",
+    "static/media/benefitimg.png": "/easypharmacy/static/media/benefitimg.654018d3a010c8e2018e.png",
+    "static/media/pillwayimg.png": "/easypharmacy/static/media/pillwayimg.a9108f5b808ace1e7cc4.png",
+    "static/media/aboutimg2.png": "/easypharmacy/static/media/aboutimg2.17c396ec0cd24ab5d78d.png",
+    "static/media/loginimg.png": "/easypharmacy/static/media/loginimg.42f3e12310932ea61454.png",
+    "static/media/profile.png": "/easypharmacy/static/media/profile.02ff94546ace26ef09a1.png",
+    "static/media/logo.svg": "/easypharmacy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/easypharmacy/index.html",
+    "main.4ea07837.css.map": "/easypharmacy/static/css/main.4ea07837.css.map",
+    "main.b5f6e5db.js.map": "/easypharmacy/static/js/main.b5f6e5db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ea07837.css",
+    "static/js/main.b5f6e5db.js"
+  ]
+}
